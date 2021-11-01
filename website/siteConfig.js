@@ -13,7 +13,7 @@ const users = [];
 
 const siteConfig = {
     title: 'Alan Jimenez-Gallardo', // Title for your website.
-    tagline: 'Continuously improving, aspiring technologist.',
+    tagline: 'Software Developer, Business Professional & Entrepeneur',
     profilePhoto: 'img/profile.png',
     url: 'https://alanjimenez21.github.io', // Your website URL
     baseUrl: '/tech-portfolio/', // Base URL for your project */
@@ -67,7 +67,7 @@ const siteConfig = {
     enableUpdateTime: true,
 
     socialMedia: {
-        linkedin: 'alanjimenez21',
+        linkedin: 'alan-jimenez-g',
         twitter: 'alanjimenez21',
         github: 'alanjimenez21',
     },
